@@ -63,6 +63,6 @@ While developing, take advantage of Flutter’s hot reload feature by pressing r
 
 ## Conclusion
 
-TrackWise is a smart, modern companion for managing personal finances. Built with the latest technologies in Flutter and Dart, it offers a seamless and engaging experience whether you’re adding new records, tracking daily activities, or analyzing your financial data through interactive charts. With its clean interface and thoughtful design, Expense Tracker not only helps you keep your finances in check but also makes budgeting fun and accessible for everyone
+I built TrackWise mainly to overcome the boring splitWise UI and bring useful features that I felt were lacking into the picture. I look forward to deploying the application on the App Store so others can also use the application manage there finances more strategically without having to stare at a boring UI. Follow my socials to be updated with any new apps!
 
 
