@@ -1,6 +1,8 @@
 ## Overview
 I am a huge fintech enthusiast! I always hated how the splitWise UI looked, and that fact it lacked a several features that I felt were essential for me. For example, being able to see the money I owed versus how much I'll be getting in the future through chart visulatization. This would help me clearly see how I can better manage my finances in the present and future. Therefore, with that idea in mind, I decided to come up with a new app that helps me be on top of my finances with this flutter application called TrackWise.
 
+![TrackWise](https://github.com/user-attachments/assets/a5707593-b27e-42aa-9193-4052a1a66e6c)
+
 
 ## Tech Stack
 
