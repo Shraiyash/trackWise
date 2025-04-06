@@ -42,11 +42,13 @@ Obtain the source code by cloning the repository using Git or downloading the ZI
 'git clone https://github.com/your_username/expense_tracker.git'
 3. Navigate to the Project Directory:
 Open a terminal and change to the project directory:
-'cd expense_tracker'
-4. Fetch Dependencies:
+'''
+cd expense_tracker
+'''
+5. Fetch Dependencies:
 Run the following command to install all the necessary packages defined in your pubspec.yaml:
 'flutter pub get'
-5. Run the App:
+6. Run the App:
 Connect a physical device or start an emulator, then run the app with:
 'flutter run'
 7. Hot Reload:
