@@ -35,21 +35,21 @@ From sliding toggles for category selection to custom dropdown menus with user i
 ## How to Run the App
 
 To get started with Expense Tracker, follow these simple steps:
-	1.	Install Flutter:
+1. Install Flutter:
 Make sure you have Flutter installed on your machine. You can download and install it from the Flutter website.
-	2.	Clone or Download the Repository:
+2. Clone or Download the Repository:
 Obtain the source code by cloning the repository using Git or downloading the ZIP file.
-git clone https://github.com/your_username/expense_tracker.git
-	3.	Navigate to the Project Directory:
+'git clone https://github.com/your_username/expense_tracker.git'
+3. Navigate to the Project Directory:
 Open a terminal and change to the project directory:
-cd expense_tracker
-	4.	Fetch Dependencies:
+'cd expense_tracker'
+4. Fetch Dependencies:
 Run the following command to install all the necessary packages defined in your pubspec.yaml:
-flutter pub get
-	5.	Run the App:
+'flutter pub get'
+5. Run the App:
 Connect a physical device or start an emulator, then run the app with:
-flutter run
-	6.	Hot Reload:
+'flutter run'
+7. Hot Reload:
 While developing, take advantage of Flutter’s hot reload feature by pressing r in the terminal to quickly see changes without restarting the app.
 
 
