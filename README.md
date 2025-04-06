@@ -6,9 +6,9 @@ I am a huge fintech enthusiast! I always hated how the splitWise UI looked, and 
 
 ## Tech Stack
 
-  •	Flutter:
+  •Flutter:
 The entire app is built using Flutter, a popular UI toolkit that lets developers create beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
-	•	Dart:
+	• Dart:
 The programming language Dart powers Flutter. It is efficient, easy to learn, and ideal for building responsive user interfaces.
 	•	FL Chart:
 For visualizing financial data, the app uses FL Chart to render interactive graphs and charts, making it easy to see trends in your spending and earnings.
@@ -24,10 +24,13 @@ Additional packages like intl help with formatting dates and currencies, ensurin
 
   • Add and Manage Records
 Easily add new financial records by entering the amount, choosing a category with a smooth toggle (e.g., Income or Expense), selecting the person involved via a stylish dropdown list that displays both images and names, and picking a date using an intuitive date picker.
+
 	•	View Recent Activity:
 The main screen displays a list of your recent transactions with neat visuals, including user images, names, amounts, and dates. This allows you to quickly glance over your recent financial activity.
+
 	•	Interactive Graphs:
 The app features interactive charts that provide visual insights into your spending and income patterns. Tapping or hovering over different parts of the graph reveals detailed information, making it easier to understand your financial trends.
+
 	•	Modern UI Elements:
 From sliding toggles for category selection to custom dropdown menus with user images, every component is designed to be both functional and visually appealing. The design is friendly, making it enjoyable to use on a daily basis.
 
